@@ -16,6 +16,8 @@ I think I am still in stage 2 of my Freedom Project because I am still reasearch
 
 * **Reading Websites:** I think from Blog 1 to this Blog, I really learned how to navigate and dig deep into websites. A lot of times when I google things, I only look at the boxes or the first few previews of things but I couldnt do that while reasearching. I had to go into the websites and click around to find what I wanted from there. Since I knew _where_ I wanted to go, it didnt take too long to figure out, especially if there was a built in search feature.
 
+*  **Expanding My Search:** A lot of times I would also only use one search or just reword it a little to try and get different results, but that just didnt work this time. I learned how to get the results I wanted through using synonyms, and trying to come up with ways to google something specific that I hadnt thought of before. 
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
