@@ -9,7 +9,7 @@ There hasnt been a lot of progress on the actual Freedom Project, but we have be
 
 The names of the Frameworks that I am using are Bootstrap and Foundation. Bootstrap is a much larger and more generalized Framework and has a much larger variety of code. It allows its users to easily import tons of code that creates a responsive and clean website, with the use of breakpoints and grids. Since you have so much flexibility with just the grid alone, it makes things so much easier than CSS. The second Framework, Foundation, is more focused on menus and buttons. It has the same grid and breakpoint system as Bootstrap but its other components are not the same. You can use the two in one page to elevate it further. Foundation has a lot more utility when you are making a site with tons of different pages and buttons for you to click around on. It has multiple options for buttons, dropdowns, and menu bars to navigate around. It also has uses for looking at comments or displaying different choices to make. Both Frameworks incorporate JS elements as well, such as sliders and other menu types.
 
-    ---
+---
 
 ### Skills I Learned
 
