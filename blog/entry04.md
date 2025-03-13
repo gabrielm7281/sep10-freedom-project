@@ -11,6 +11,8 @@ The names of the Frameworks that I am using are Bootstrap and Foundation. Bootst
 
  While using Foundation, I decided to take one of their [templates](https://get.foundation/templates-previews-sites-f6-xy-grid/news-magazine.html) and mess around with it (Results are below). I added some pictures in and made a [dropdown](https://get.foundation/sites/docs/dropdown-menu.html) for the comments. I also linked a few of the thumbnails on the side to their respective website (Polar bear to animal website, Billy Joel to his Website). I also put in a Mcdonalds advertiesement as a test to see what would work in the space I had. Since I was only messing around and checking out some of the components of Foundation, it is kinda boring and there isnt too much to look at. I was only able to do a few things before I got busy with other parts of the class.
 
+ ![#](foundation.png)
+
 ---
 
 ### Skills I Learned
