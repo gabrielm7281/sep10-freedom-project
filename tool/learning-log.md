@@ -30,6 +30,10 @@
 * Used Buttons groups instead of seperate dropdowns (Groups the dropdowns together in a row which was my issue before)
  `<div class="btn-group">`
  * Tried to fix workflow
+
+### 3/24/24
+ * Did some more responsive testing because im still not sure about it. I think Foundation makes it more understandable with its `small-up-3` tags. This allows for 3 columns on a small screen and up.
+ * Tried to make a good footer and I saw Foundation might have decent templates I can try
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
