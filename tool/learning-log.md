@@ -1,17 +1,36 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Foundation**
 
 ---
 
-### X/X/XX:
-* Text
+### 3/5/25:
+* Messed around in the Newspaper website
+* Tried to fix some parts on the website
+* Tried to import Google Calendar but it might be a lot more tedious or just straight up impossible
+* Played around with some menu and navbar options from the Docs page
 
-### X/X/XX:
-* Text
+### 3/10/24:
+* Messed around in the Notes website
+* I used both Foundation and Bootstrap elements
+* Cards from Bootstrap
 
+### 3/18/24:
+* Learned How to open a new Terminal in IDE
+* Messed around with some Nabar stuff from Bootstrap (Squeezing/expanding)
+* Also tried to do colors
+* Put buttons inside navbar instead of C&P
 
-<!-- 
+### 3/19/25:
+* Tried to put the button on the right side but Mr Mueller said to do that later
+* Added Dropdowns for information
+* Getting the minimum stuff down, gonna do the CSS later
+
+### 3/20/24
+* Used Buttons groups instead of seperate dropdowns (Groups the dropdowns together in a row which was my issue before)
+ `<div class="btn-group">`
+ * Tried to fix workflow
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
