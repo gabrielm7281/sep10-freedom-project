@@ -34,6 +34,10 @@
 ### 3/24/24
  * Did some more responsive testing because im still not sure about it. I think Foundation makes it more understandable with its `small-up-3` tags. This allows for 3 columns on a small screen and up.
  * Tried to make a good footer and I saw Foundation might have decent templates I can try
+
+### 3/25/25
+* Tried a footer today, it was inspired by Abdels footer and his method of doing it
+![footer.png](../footer.png)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
