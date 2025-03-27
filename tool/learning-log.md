@@ -38,6 +38,10 @@
 ### 3/25/25
 * Tried a footer today, it was inspired by Abdels footer and his method of doing it
 ![footer.png](../footer.png)
+* Messed around with the Foundation components some more
+* Tried to edit Foundation elements but it didnt work :(
+
+### 3/27/25
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
