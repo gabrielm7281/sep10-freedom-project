@@ -18,6 +18,8 @@ It does not look like a lot but it is using a Foundation element called `callout
 One of the skills that I think I developed through this time was the ability to read the code, whether I made it or not. In one of my previous blogs or writeups I mentioned the fact that I found it kinda hard to read what was in front of me, especially with big blobs of text. Since those big blobs have gotten a lot more common, I think I got used to it and I figured out a way to pick out the stuff I want to find, using whatever resources I have like the indentations and (Ctrl-f).  This has made coding and editing pre made code a lot easier to do, and a lot faster as well since I don't have to slowly get through the code of a navbar. I also started putting "Headings" above sections of code and it makes things easier to find. For example, I would put `<!--Carosuel-->` to designate the Carousel from other code like the Navbar. 
 
 I think I also figured out a way to efficiently look at what elements would do, and how I would customize them. When I first started learning frameworks, I found it hard and annoying to edit the properties of a card or whatever I am implementing into the page. After a few tutorials from the website and from Mr. Mueller, I figured out that you can edit the actual Framework file so that you can make it how you want or just simply add the new CSS class onto the file. You can also use the `<style>` part in the head of the HTML with the tag '!important` at the end of every line. That is the only way to get around the original CSS and it is important knowledge to have
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
