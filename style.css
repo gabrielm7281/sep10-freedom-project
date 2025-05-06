@@ -1,4 +1,14 @@
-@media
 .context {
+    text-align: center;
+}
 
+.tech {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.media-object {
+    border-style: solid;
+    border-width: thin;
+    border-color: gray; 
 }
