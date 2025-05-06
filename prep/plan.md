@@ -46,12 +46,12 @@
 
 
 
-
+I dont have much of a plan lol
 
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
-|   |   |
+| Derek | I like how there is a part b of the website | You should make the buttons on the navbar send you to the section. |
+| Abdelrahman  | I like the use of cards, looks very sick | Agree with previous person. The navbar title says 'Site title', and the buttons don't work. Or at least not as they should. 
 |   |   |
 |   |   |
 |   |   |
