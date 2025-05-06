@@ -6,6 +6,8 @@ No Bootstrap
 Revert to show wbesite before responsiveness
 No time
 Creative Blcok
+Feedback and Improvememnts
+Switching elements when chaning screen sizes
 
 [Previous](entry05.md) | [Next](entry07.md)
 
