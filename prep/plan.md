@@ -28,10 +28,10 @@
 
 
 #### MVP
-
-* Recreate wireframe in the code
-* Fill in the wireframe with content
 * Decorate the content to make it presentable
+* Make the buttons work
+* Make an accurate site to the MVP
+* Making the content a step above the background (Order)
 
 ---
 
