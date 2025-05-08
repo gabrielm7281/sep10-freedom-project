@@ -1,22 +1,81 @@
-.black {
-    background-color: black;
+
+.top-bar, .menu {
+        color: white;
+        background-image: linear-gradient(270deg, rgb(37, 202, 204), rgb(63, 124, 217), rgb(44, 99, 184), blue);
 }
 
-.context {
+a:link {
+    color: white;
+}
+
+
+#context {
+    font-family: "Comic Relief", system-ui;
+    font-weight: 400;
+    font-size: 20px;
+    font-style: normal;
     border-style: solid;
     border-width: 3px;
     border-color: white;
     text-align: center;
     background-color: rgb(37, 202, 204);
+    margin-top: 45px;
+    margin-bottom: 100px;
+}
+
+h4 {
+    font-family: "Tinos", serif;
+    font-weight: 600;
+    font-size: 30px;
+    font-style: normal;
+}
+
+.title {
+    font-family: "Tinos", serif;
+    font-weight: 400;
+    font-size: 22px;
+    font-style: normal;
+}
+
+.title-large {
+    font-family: "Tinos", serif;
+    font-weight: 600;
+    font-size: 30px;
+    font-style: normal;
+}
+
+.text {
+    font-family: "Comic Relief", system-ui;
+    font-weight: 400;
+    font-size: 15px;
+    font-style: normal;
 }
 
 .tech {
+    font-family: "Comic Relief", system-ui;
+    font-weight: 400;
+    font-style: normal;
     margin-top: 10px;
     margin-bottom: 10px;
-    height: 650px !important;
+}
+
+#purpose {
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    text-align: center;
+    background-color: rgb(37, 202, 204);
+    margin-top: 45px;
+    margin-bottom: 250px;
+}
+
+.card {
+    margin-bottom: 50px;
+
 }
 
 .card-divider {
+
     background-image: linear-gradient(180deg, rgb(37, 202, 204), rgb(63, 124, 217), blue);
 }
 
@@ -27,15 +86,26 @@
 .main-section {
     border-style: solid;
     border-width: thin;
-    border-color: gray;
+    border-color: white;
     width: auto;
     padding-left: 10px;
     padding-right: 10px;
+    background-color: rgb(37, 202, 204);
+    background-image: linear-gradient(180deg, rgb(37, 202, 204), rgb(63, 124, 217), blue);
 }
 
 .secondary {
     border-style: solid;
     border-width: thin;
-    border-color: gray;
+    border-color: white;
     padding-left: 5px !important;
+    padding-right: 18px !important;
+    background-color: rgb(37, 202, 204);
+    background-image: linear-gradient(180deg, rgb(37, 202, 204), rgb(63, 124, 217), blue);
 }
+
+.next {
+    float: center;
+    color: blue !important;
+}
+)
