@@ -8,6 +8,9 @@ a:link {
     color: white;
 }
 
+.img {
+    height: 235px;
+}
 
 #context {
     font-family: "Comic Relief", system-ui;
