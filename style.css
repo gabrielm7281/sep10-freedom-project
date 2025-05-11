@@ -123,6 +123,6 @@ h4, .accordion-title {
     color: blue !important;
 }
 
-a:visited, a:hover {
+a:link, a:visited, a:hover {
     color: black
 }
