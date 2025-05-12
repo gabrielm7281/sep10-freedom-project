@@ -4,10 +4,10 @@
 * 
 
 ## Product
-* 
+* Show off the two pages, going over the product and what was currently availible
 
 ## Process
-* 
+* Show some challenges written in the blog, as well as how I learned Foundation
 
 ## Conclusion
 * 
