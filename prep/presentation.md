@@ -1,16 +1,20 @@
 # Presentation Plan
 
 ## Hook
-* 
+* A lot of remote places with people are very difficult and expensive to access and maintain so it is difficult to support the communities. Useful planes are all large and very expensive, which is not something small communities need
 
 ## Product
-* Show off the two pages, going over the product and what was currently availible
+* Go over the current tech and what it does
+* Go over the stats and how its innovative
+* Explain how its useful
 
 ## Process
-* Show some challenges written in the blog, as well as how I learned Foundation
+* SHow the grid system and the accordion
+* Explain some problems
+* How I defeated them
 
 ## Conclusion
-* 
+* Its hard but rewarding to make good products
 
 <!-- EXAMPLE
 
