@@ -1,8 +1,20 @@
 # Entry 7
-##### X/X/XX
+##### 6/2/25
 
-Text
+### What Have I Done So Far?
+In the 3 weeks from the last Blog, we have mainly been prepping and finalizing the final presentations to present to the class. In that time I have presented, both in class and at the SEP10 expo, which shows off all of the projects in the SEP class. My [presentation](https://docs.google.com/presentation/d/1lKEHwXwd7FAWQIe3mCCHqqKbgyOgwSTD30YK9HlchMA/edit?slide=id.g358028c4ac4_0_0#slide=id.g358028c4ac4_0_0) went over my Part B and the context behind it, as well as the process that I used to make the website. The [project](http://gabrielm7281.github.io/sep10-freedom-project/) itself showed off current technologies that planes and pilots use across larger and smaller plane types. I also showcased my idea for a new plane which was for the Part B section.
 
-[Previous](entry06.md) | [Next](entry08.md)
+### Feedback
+I got some feedback from Mr. Mueller (my teacher) about the project and my presentation. For the product (website), I got a full 10/10, which was based off of the MVP, its content, proof that I learned [Foundation](https://get.foundation/), the idea's practicality (the plane), and its originality. The product didnt get much feedback from Mr. Mueller since it was a full 10/10 and many students who visited didnt say much about the site, just about my idea. The judges asked a generic question which was also about idea, so there wasnt much I learned from the expo and presentation 
 
-[Home](../README.md)
+I also got feedback from Mr. Mueller about my in class presentation. I am not good at presenting so I got a pretty low grade for it. I had a 6/10 but this time it was based off of my hook, corherence of what I was explaining, how often/well I interacted and looked at the class, visuals and the conclusion. I did the worst on my interactions and my conclusion with a 0/2 and a 1/2 respectively. There were also a few walls of text that mightve made it hard for the viewers to properly understand what was happening which got me a 1/2 as well. 
+
+### Reflection
+There were a few reasons why I got a 0/2 on the interactions grade. I hardly looked up at the crowd, I was very quiet and talked at a pace that was difficult to understand. I understand why I got the 0/2 and I agree with the reasons why. I am usually quiet and I am not used to being in front of a lot of people so I got very nervous. I was also expecting to present the day before and had a script/ideas for what I was going to say, but I ended up going the second day. I forgot most of the script, which forced me to look at the screen to figure out what I was going to say. Even if I knew the script, I am not good at being in front of a lot of people so I still might not of done well with eye contact. 
+
+My 1/2 on my conclusion was because it was fairly generic and it could've been applied anywhere. I tried to connect it back to the presentation and the challenges that I had but it wasnt specific enough to what I was talking about. I think I should of explained more about why I chose that specific takeaway instead of just leaving it as a generic statement but it was a little rushed in the end. 
+
+Overall I think I did ok on this years Freedom Project. I am proud of what I made with HTML and CSS, but there could be a lot more work on my presenting skills. I'm assuming there will be more presentations that I have to do in Junior year so I should have the confidence I need for the end of the year in SEP11, and I think that should be enough to help me get a higher grade on the presenting part. I think I should also prepare more for the presenting instead of only coming up with things a day before with little practice. Something Mr Mueller suggested to use was to practice with family or record yourself so you can receive feedback about how you are doing. I didn't do this and I think its something that I could do in the future, just for practice. Recording is also a good way to find things you can improve on since you are listening to it with a fresh mind instead of a nervous brain. I think I could of done better and I will try to improve for next year by reflecting on this blog and using the previous strategies. 
+
+[Previous](entry06.md) | [Home](../README.md)
+
